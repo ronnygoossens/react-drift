@@ -2,6 +2,8 @@ import React from 'react'
 // ronny
 // kathleen
 // ellen
+// sarah
+
 import Carousel from './carousel'
 import Frame from './frame'
 import Nav from './nav'
